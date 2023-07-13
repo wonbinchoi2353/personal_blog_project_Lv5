@@ -1,0 +1,24 @@
+{
+  "name": "personal_blog_project_lv3",
+  "version": "1.0.0",
+  "description": "Lv2 프로젝트를 마무리 한 뒤 그 프로젝트를 가져와 Lv3 프로젝트를 시작할 예정입니다.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mysql2": "^3.5.0",
+    "sequelize": "^6.32.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "sequelize-cli": "^6.6.1"
+  }
+}
